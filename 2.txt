@@ -1,0 +1,34 @@
+zetson / intel nuc - google coral = tpu
+
+~/.bashrc -> yolo_run
+rviz - somthing is 2 
+- compressed image1, 2?
+= bounding box, black square 
+= this two thing are published
+
+----------------------------------------------
+
+how to trained file apply
+ws - src - darknetb
+kudos darknet.py = is connected with yolo
+- function parser()
+-- weights : default is important - weight file path - change what i want
+
+-- data file : obj.data
+-- config file : tiny_kudos.cfg
+-- : when we change right side -> we need to change default path at kudos_darknet.py parser()
+
+--------------------------------------------------
+
+kudos local process with gui2.py
+= didnt work effective -> understand but not important
+
+~/.bashrc -> run_local
+line extract gui - in simulator = good / in reality = not helpful
+=> localization with another code is recomanded
+
+---------------------------------------------------
+
+kudos vision.py = study
+
+https://coral.ai/docs/accelerator/get-started/#runtime-on-linux
